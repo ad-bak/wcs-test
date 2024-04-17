@@ -1,2 +1,17 @@
 2024/04/17 08:33:05 [error] 24#24: *2 rewrite or internal redirection cycle while internally redirecting to "/index.html", client: 192.168.65.1, server: , request: "GET / HTTP/1.1", host: "localhost:8000"
 2024/04/17 08:33:06 [error] 24#24: *1 rewrite or internal redirection cycle while internally redirecting to "/index.html", client: 192.168.65.1, server: , request: "GET / HTTP/1.1", host: "localhost:8000"
+2024/04/17 09:35:34 [emerg] 1#1: host not found in upstream "server" in /etc/nginx/nginx.conf:10
+2024/04/17 09:35:35 [emerg] 1#1: host not found in upstream "server" in /etc/nginx/nginx.conf:10
+2024/04/17 09:35:36 [emerg] 1#1: host not found in upstream "server" in /etc/nginx/nginx.conf:10
+2024/04/17 09:35:36 [emerg] 1#1: host not found in upstream "server" in /etc/nginx/nginx.conf:10
+2024/04/17 09:35:37 [emerg] 1#1: host not found in upstream "server" in /etc/nginx/nginx.conf:10
+2024/04/17 09:35:39 [emerg] 1#1: host not found in upstream "server" in /etc/nginx/nginx.conf:10
+2024/04/17 09:35:42 [emerg] 1#1: host not found in upstream "server" in /etc/nginx/nginx.conf:10
+2024/04/17 09:35:49 [emerg] 1#1: host not found in upstream "server" in /etc/nginx/nginx.conf:10
+2024/04/17 09:36:02 [emerg] 1#1: host not found in upstream "server" in /etc/nginx/nginx.conf:10
+2024/04/17 09:36:28 [emerg] 1#1: host not found in upstream "server" in /etc/nginx/nginx.conf:10
+2024/04/17 09:37:19 [emerg] 1#1: host not found in upstream "server" in /etc/nginx/nginx.conf:10
+2024/04/17 09:38:19 [emerg] 1#1: host not found in upstream "server" in /etc/nginx/nginx.conf:10
+2024/04/17 09:39:19 [emerg] 1#1: host not found in upstream "server" in /etc/nginx/nginx.conf:10
+2024/04/17 09:40:20 [emerg] 1#1: host not found in upstream "server" in /etc/nginx/nginx.conf:10
+2024/04/17 09:41:20 [emerg] 1#1: host not found in upstream "server" in /etc/nginx/nginx.conf:10
